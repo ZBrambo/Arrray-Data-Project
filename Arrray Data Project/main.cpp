@@ -1,5 +1,5 @@
 /*
-* Use stdi from keyboard
+* Use std input from keyboard
 *	Can use either built-in arrays or array class
 *	Read in 5 INTEGERS into array
 *	Loop through the array of ints, and print out TWICE the amount
